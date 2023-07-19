@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'BCD4bitsWreg:visualizacion|cfreq[16]'
+Slack : -3.353
+TNS   : -15.472
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -2.043
+TNS   : -22.513
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.452
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'BCD4bitsWreg:visualizacion|cfreq[16]'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -75.863
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'BCD4bitsWreg:visualizacion|cfreq[16]'
+Slack : -1.487
+TNS   : -14.870
+
+Type  : Slow 1200mV 0C Model Setup 'BCD4bitsWreg:visualizacion|cfreq[16]'
+Slack : -3.175
+TNS   : -14.152
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -1.701
+TNS   : -18.391
+
+Type  : Slow 1200mV 0C Model Hold 'BCD4bitsWreg:visualizacion|cfreq[16]'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -75.863
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'BCD4bitsWreg:visualizacion|cfreq[16]'
+Slack : -1.487
+TNS   : -14.870
+
+Type  : Fast 1200mV 0C Model Setup 'BCD4bitsWreg:visualizacion|cfreq[16]'
+Slack : -0.881
+TNS   : -3.456
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -0.646
+TNS   : -1.543
+
+Type  : Fast 1200mV 0C Model Hold 'BCD4bitsWreg:visualizacion|cfreq[16]'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -55.270
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'BCD4bitsWreg:visualizacion|cfreq[16]'
+Slack : -1.000
+TNS   : -10.000
+
+------------------------------------------------------------
