@@ -1,10 +1,5 @@
 # Laboratorio 04: Diseño de banco de Registro
 
-### Autores
-- Deimy Xiomara Murcia Chavarría
-- Delwin José Padilla Padilla
-- Diego Alejandro Sánchez Mendoza
-
 ### Palabras Clave:
 Banco de registros, Flip-Flop, Lógica secuencial, Memoria, Visualización dinámica
 
